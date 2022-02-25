@@ -1,0 +1,28 @@
+h3{
+	border: 5px solid skyblue;
+}
+h4{border: 2px dashed green;
+}
+  /*this is a heading*/
+h5{border:3px dotted yellow;
+
+}
+.head6{
+	color: brown;
+	background:gray;
+    font-size: 35px;
+}
+
+.box{
+	width:50%;
+	height: 100px;
+	background-color: skyblue;
+	font-style: italic;
+	background-color: grey
+    
+}
+h6{
+	width:50%;
+	height: 100px;
+	
+}
